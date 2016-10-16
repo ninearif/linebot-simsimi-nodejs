@@ -1,12 +1,11 @@
 # Linebot SimSimi With Node.JS
-<hr>
 
 # Supported Node Version
 Recommended node version is above v4.0.0 because this module is implemented with ES6.
 
 ### Special thanks
-<a href="https://github.com/runnables/line-bot-sdk-nodejs">line-bot-sdk-nodejs</a>
-<a href="https://github.com/tejitak/node-line-bot-api">Node LINE Bot API</a>
+* <a href="https://github.com/runnables/line-bot-sdk-nodejs">line-bot-sdk-nodejs</a><br>
+* <a href="https://github.com/tejitak/node-line-bot-api">Node LINE Bot API</a>
 
 ### License
 MIT
